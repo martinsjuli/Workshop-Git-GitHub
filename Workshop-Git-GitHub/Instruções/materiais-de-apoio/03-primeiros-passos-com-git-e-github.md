@@ -21,6 +21,18 @@ Acesse a pasta que deseja transformar em um repositório Git  pelo terminal ou c
     ```bash
     git remote add origin https://github.com/username/nome-do-repositorio.git
     ```
+3. Visualizar alterações:
+    ```bash
+    git status
+    ```
+4. Adiciona uma alteração no diretório de trabalho para a área de preparação . Ele informa ao Git que você deseja incluir atualizações no próximo commit:
+    ```bash
+    git add . 
+    ```
+4. Commits podem ser considerados como instantâneos ou marcos ao longo do cronograma de um projeto Git. Commits são criados com o comando git commit para capturar o estado de um projeto naquele ponto no tempo:
+    ```bash
+    git commit -m "Mensagem" 
+    ```    
 ##
 
 ### Desfazendo Alterações no Repositório Local
