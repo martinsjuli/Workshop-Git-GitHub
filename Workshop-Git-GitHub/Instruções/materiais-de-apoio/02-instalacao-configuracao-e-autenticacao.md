@@ -44,9 +44,12 @@
 git config --list
 ```
 
-#### Configurando seu nome de usuário e e-mail (globalmente):
+#### Configurando seu nome de usuário (globalmente):
 ```bash
 git config --global user.name "Nome Sobrenome"
+```
+#### Configurando seu nome de e-mail (globalmente):
+```bash
 git config --global user.email seuemail@email.com
 ```
 #### Configurando o nome da Branch Padrão:
