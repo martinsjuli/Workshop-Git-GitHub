@@ -32,19 +32,20 @@ Acesse a pasta que deseja transformar em um repositório Git pelo terminal ou cl
 Antes de começar a trabalhar em um novo recurso ou correção de bug, é uma boa prática criar uma nova branch. Para criar uma nova branch e alternar para ela, use:
 ```bash
 git checkout -b nome-da-branch
+```
 
-###Listando Branches
+### Listando Branches
 Para listar todas as branches em seu repositório e ver em qual você está atualmente, use:
 ```bash
 git branch
 ```
-###Mudando para Outra Branch
+### Mudando para Outra Branch
 Para mudar para uma branch existente, use:
 ```bash
 git checkout nome-da-branch
 ```
 
-####Adicionando Mudanças e Committing
+#### Adicionando Mudanças e Committing
 4. Adicione uma alteração no diretório de trabalho para a área de preparação. Isso informa ao Git que você deseja incluir atualizações no próximo commit:
 ```bash
 git add .
@@ -55,25 +56,25 @@ git add .
 git commit -m "Mensagem" 
 ```
 
-###Enviando Alterações para o Repositório Remoto
-####Puxando Alterações do Repositório Remoto
+### Enviando Alterações para o Repositório Remoto
+#### Puxando Alterações do Repositório Remoto
 6. Antes de enviar suas alterações, é uma boa prática puxar as alterações do repositório remoto para garantir que sua branch local esteja atualizada:
 ```bash
 git pull origin nome-da-branch
 ```
-####Enviando Commits para o Repositório Remoto
+#### Enviando Commits para o Repositório Remoto
 7. Depois de ter feito commit de suas alterações, você pode enviá-las para o repositório remoto:
 ```bash
 git push origin nome-da-branch
 ```
 
-###Desfazendo Alterações no Repositório Local
+### Desfazendo Alterações no Repositório Local
 Como alterar a mensagem do último commit
 ```bash
 git commit --amend -m "Nova Mensagem"
 ```
 
-####Como desfazer um commit
+#### Como desfazer um commit
 8. Reverte o último commit, mantendo as alterações:
 ```bash
 git reset --soft HEAD~1
@@ -87,13 +88,13 @@ Reverte o último commit e descarta as alterações:
 git reset --hard HEAD~1
 ```
 
-####Como excluir uma branch
+#### Como excluir uma branch
 9. Exclua uma branch que não é mais necessária:
 ```bash
 git branch -d nome-da-branch
 ```
 
-10. ####Conclusão
+10. #### Conclusão
 Seguindo esses passos, você conseguirá gerenciar o versionamento de código de maneira eficaz usando Git e GitHub. Lembre-se sempre de confirmar se a branch na qual você está trabalhando é a correta e de comunicar bem com sua equipe sobre as alterações e merges.
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/jocarsbarsa">João Carlos</a>.</div>
