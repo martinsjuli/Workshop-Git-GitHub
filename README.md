@@ -75,7 +75,7 @@ Introduzir ao versionamento de código com Git e Funcionalidades do GitHub.
       <img width="80px" align="center" src="https://media.licdn.com/dms/image/v2/C4D03AQEn6H_KTF76Bw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1647975139437?e=1730332800&v=beta&t=RX_ZvPt7JnVIdSanMYniqS7-ik3t6D4bfgnRSGeSjKc"/>
     </td>
     <td align="left">
-      <a href="www.linkedin.com/in/joão-carlos-barsanelli">
+      <a href="https://www.linkedin.com/in/joão-carlos-barsanelli">
         <span><b>João Carlos</b></span>
       </a>
       <br>
