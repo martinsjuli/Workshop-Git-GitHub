@@ -1,6 +1,6 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <a href="https://javanoroeste.com.br/javanoroeste/">
+     <img align="center" width="40px" src="https://javanoroeste.com.br/javanoroeste/javaday_riopreto/favicon.svg"></a>
     <span> Versionamento de Código com Git e GitHub</span>
 </h1>
 
@@ -9,13 +9,13 @@
 ### Git Aliases: Adicionando apelidos para os comandos do Git
 Exemplo: Criando um alias para o comando `status`:  
 ```bash
-$ git config --global alias.st status
+git config --global alias.st status
 ```  
 Agora podemos utilizar o comando  `git st` para acionar o  `git status`.
 <br>
 Para remover o alias que criamos, utilizamos o seguinte comando:
 ```bash
-$ git config --global --unset alias.st
+git config --global --unset alias.st
 ```
 
 ### Para saber mais
@@ -30,4 +30,4 @@ $ git config --global --unset alias.st
 - GitHub Pages: [https://docs.github.com/en/pages/getting-started-with-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com 💙 por <a href="https://github.com/jocarsbarsa">João Carlos</a>.</div>
