@@ -1,4 +1,4 @@
-# Git / GitHub Course
+# Git / GitHub Course - List Names
 
 [Java Day Event](https://javanoroeste.com.br/javanoroeste/javaday_riopreto/) GitHub - Funcionalidades Essenciais para Colaboração em Projetos de Software.
 
