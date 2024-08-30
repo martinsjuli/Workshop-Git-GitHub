@@ -8,6 +8,6 @@ Este repositório é sobre nosso workshop e contém uma lista de usuários que c
 
 Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por exemplo, LinkedIn, Twitter, Instagram, ...) em uma solicitação pull.
 
-| Nome Completo          | Endereço URL                                           |
+|Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [Linkedin](www.linkedin.com/in/joão-carlos-barsanelli) |
