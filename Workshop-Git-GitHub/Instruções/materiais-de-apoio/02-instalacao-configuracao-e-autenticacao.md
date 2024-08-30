@@ -1,6 +1,6 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <a href="https://javanoroeste.com.br/javanoroeste/">
+     <img align="center" width="40px" src="https://javanoroeste.com.br/javanoroeste/javaday_riopreto/favicon.svg"></a>
     <span> Versionamento de Código com Git e GitHub</span>
 </h1>
 
@@ -55,4 +55,4 @@ $ git config --global init.defaultBranch main
 ```
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com 💙 por <a href="https://github.com/jocarsbarsa">João Carlos</a>.</div>
